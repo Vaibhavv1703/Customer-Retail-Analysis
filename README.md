@@ -8,7 +8,7 @@ Retail businesses can benefit greatly from understanding their customers' behavi
 
 ## DataSet
 
-Two datasets have been used for this analysis. The first one is Shopping Trends which focuses on the frequency of purchases, preferences, product categories, shipping types and customer demographics. The second dataset contains actual data of customers including purchase amount, products, invoice details, and customer details. 
+Two datasets have been used for this analysis. The first one is Shopping Trends which focuses on the frequency of purchases, preferences, product categories, shipping types, and customer demographics. The second dataset contains actual data of customers including purchase amount, products, invoice details, and customer details. 
 
 ## Steps for Analysis
 
@@ -41,4 +41,4 @@ The exploratory analysis reveals several insights into customer behavior and ret
 ## Conclusion
 
 Exploratory data analysis using Matplotlib graphs provides valuable insights into customer retail analysis. By understanding customer behavior and preferences, businesses can optimize their marketing strategies, product offerings, and overall operations to better serve their customers and improve profitability.
-Refer to the Jupyter Notebook provided in this repository for clear visualisations.
+Refer to the Jupyter Notebook provided in this repository for clear visualizations.
