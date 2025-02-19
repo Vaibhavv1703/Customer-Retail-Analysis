@@ -21,7 +21,7 @@ To run this notebook, you need the following:
 ## Usage
 1. Clone the repository:
       ```bash
-      git clone https://github.com/your-username/CustomerAnalysis.git
+      git clone https://github.com/Vaibhavv1703/CustomerAnalysis.git
       cd CustomerAnalysis
       ```
 2. Open the Jupyter Notebook:
