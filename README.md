@@ -30,6 +30,9 @@ To run this notebook, you need the following:
       ```
 3. Run the notebook cell by cell to explore the customer data.
 
+## License
+This repository is licensed under the MIT License. See the [LICENSE](https://github.com/Vaibhavv1703/Customer-Retail-Analysis/blob/main/LICENSE) file for more details.
+
 ## Dataset
 - The dataset used for analysis is assumed to be available in the notebook or needs to be provided separately.
 - Ensure the dataset is in the correct format before running the notebook.
