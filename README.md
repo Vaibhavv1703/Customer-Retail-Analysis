@@ -1,4 +1,4 @@
-# Customer-Churn-Analysis
+# Customer-Retail-Analysis
 ## Overview
 This repository contains a Jupyter Notebook for customer analysis and the dataset that is being used. The notebook includes data exploration, visualization, and insights into customer behavior using various analytical techniques.
 
